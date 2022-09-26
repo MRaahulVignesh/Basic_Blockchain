@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "hex-to-binary": "^1.0.1",
     "nodemon": "^2.0.4",
-    "pubnub": "^4.28.4",
+    "pubnub": "^4.37.0",
     "pubsub": "^3.2.1",
     "request": "^2.88.2"
   }
